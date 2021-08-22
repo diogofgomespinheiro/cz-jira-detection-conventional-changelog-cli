@@ -1,0 +1,11 @@
+{
+  "name": "cz-jira-detection-conventional-changelog-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diogofgomespinheiro/cz-jira-detection-conventional-changelog-cli.git",
+  "author": "Diogo Pinheiro <diogo.fgomes.pinheiro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commitizen": "^4.2.4"
+  }
+}
